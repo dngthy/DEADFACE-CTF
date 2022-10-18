@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Oct 15 16:34:56 2022
+Invocation: foremost All_Seeing_Eye.jpg 
+Output directory: /home/dngthy/Desktop/CTF/DEADFACE CTF/STEG/ Eye Know, Do You? /output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: All_Seeing_Eye.jpg
+Start: Sat Oct 15 16:34:56 2022
+Length: 89 KB (91776 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      89 KB 	          0 	 
+Finish: Sat Oct 15 16:34:56 2022
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Oct 15 16:34:56 2022
